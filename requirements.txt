@@ -1,0 +1,5 @@
+tinyfish
+python-dotenv
+streamlit
+pandas
+python-dateutil
